@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-22T06:35:37.369Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="0pWyt7AaMsyU340TwCWc" version="14.9.1" type="github" pages="7">
+<mxfile modified="2021-07-22T10:45:12.369Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="Tla1FImrrjnGYQs2_PJa" version="14.9.1" type="github" pages="7">
   <diagram id="225a72ee-af1e-5bd0-00b2-6e5c553b292f" name="Total">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -791,13 +791,13 @@
         <mxCell id="76" value="微信/支付宝" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="300" y="290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77" value="移动应用" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="77" value="友客云APP" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="336" y="290" width="36" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="79" value="开放平台" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="79" value="友智慧APP" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="380" y="290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="80" value="服务热线" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="80" value="开放平台" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="424" y="290" width="32" height="60" as="geometry" />
         </mxCell>
         <mxCell id="81" value="屏幕广告" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -854,7 +854,7 @@
         <mxCell id="103" value="。。。。。。" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="550" y="429" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="105" value="" style="endArrow=none;dashed=1;html=1;entryX=0.056;entryY=0.006;entryPerimeter=0;exitX=0.054;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="104" edge="1" source="104">
+        <mxCell id="105" value="" style="endArrow=none;dashed=1;html=1;entryX=0.056;entryY=0.006;entryPerimeter=0;exitX=0.054;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="104" target="104" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="101" y="751" as="sourcePoint" />
             <mxPoint x="120" y="830" as="targetPoint" />
@@ -863,43 +863,43 @@
         <mxCell id="106" value="&lt;h1&gt;描述&lt;/h1&gt;&lt;div style=&quot;text-align: left&quot;&gt;基于服务化和强中台的理念，通过分布式系统，构建公司层面的用户中心，支付中心，订单中心，营销中心，点位库存，客诉等服务。 系统有以下特点：&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;持续的业务沉淀，支持新业务（新机型）的快速接入，推广/加盟和后期运营/运维&lt;/li&gt;&lt;li&gt;MQTT作为服务器和机器的通信协议，隔离了通信基础设施与业务逻辑，提高了业务变化对通信的影响&lt;/li&gt;&lt;li&gt;用户中心，营销中心的交互，打通各个业务之间的用户运营和营销&lt;br&gt;&lt;/li&gt;&lt;li&gt;分布式的架构，强化了系统的整体可用性和可扩展性&lt;/li&gt;&lt;li&gt;开放平台，提供了和第三方系统丰富的合作模式&lt;/li&gt;&lt;li&gt;加盟商系统，为加盟客户提供看店功能，共享友宝多年的运营经验（智慧运营）&lt;/li&gt;&lt;li&gt;使用传统ERP/SAP来管理商品的进销存、财务共享&lt;/li&gt;&lt;li&gt;智慧运营作为友宝多年运营经验的汇集，是友宝核心能力的体现，包括补货计划，货道配置，商品分析等功能，&lt;/li&gt;&lt;ul&gt;&lt;li&gt;补货计划：为每一个运营补货人员提供了每天的补货计划单和备货单，相比以前的经验性补货，有效提高了补货的准确性，提高了补货人员的补货效率。补货算法维度丰富多样：包括销售预测，点位温度，节假日，季节等等&lt;/li&gt;&lt;li&gt;货道配置：货道配置的合理性提供建议，包括增加畅销品的货道，减少滞销品的货道&lt;/li&gt;&lt;li&gt;商品分析：上那些商品，上到那些机器，货道配置多少个&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="-100" width="586" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-111" value="Text" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-111" value="Text" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-160" y="521.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-112" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-112" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-191.75" y="504.5" width="136.5" height="225.5" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-113" value="法大大电子签约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-113" value="法大大电子签约" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="521.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-114" value="商品图像识别服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-114" value="商品图像识别服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="564.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-115" value="云账户报税" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-115" value="云账户报税" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="604.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-116" value="华夏银行PDS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-116" value="华夏银行PDS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="645" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-117" value="SAAS" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-117" value="SAAS" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-191.75" y="770" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-118" value="接口服务" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-118" value="接口服务" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
           <mxGeometry x="-40" y="585" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-119" value="建行融贷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-119" value="建行融贷" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="687" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-121" value="结算中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-121" value="结算中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="492.5" y="630" width="97.5" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-123" value="合同管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-123" value="合同管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="246" y="549" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-125" value="融资/报税服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-125" value="融资/报税服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="246" y="590" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-127" value="商品批发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-127" value="商品批发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="246" y="627" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
