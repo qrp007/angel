@@ -1,6 +1,6 @@
-<mxfile modified="2021-07-23T02:03:13.943Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="w4JQOo9WnX8thp8SMcXU" version="14.9.1" type="github" pages="7">
+<mxfile modified="2021-07-23T10:25:53.706Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 Edg/91.0.864.71" etag="F3429VlyMF6t8t7XmDc3" version="14.9.1" type="github" pages="7">
   <diagram id="225a72ee-af1e-5bd0-00b2-6e5c553b292f" name="Total">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -610,7 +610,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dabefdf5-94d4-f586-70c5-3952973d5656" name="架构">
-    <mxGraphModel dx="2125" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -839,7 +839,7 @@
         <mxCell id="94" value="U8&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="795" y="637" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="95" value="HR&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="95" value="。。。。。。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="795" y="687" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="96" value="企业管理软件" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -881,7 +881,7 @@
         <mxCell id="J37brF7z_EK4cNClz8Gs-116" value="华夏银行PDS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="645" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J37brF7z_EK4cNClz8Gs-117" value="SAAS" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="J37brF7z_EK4cNClz8Gs-117" value="外部SAAS" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-191.75" y="770" width="131.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J37brF7z_EK4cNClz8Gs-118" value="接口服务" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" parent="1" vertex="1">
@@ -902,16 +902,16 @@
         <mxCell id="J37brF7z_EK4cNClz8Gs-127" value="商品批发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="246" y="627" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fGVDa1nO1qIoD0k06qMP-106" value="蚂蚁金服货柜云平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fGVDa1nO1qIoD0k06qMP-106" value="蚂蚁金服货柜云平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="474.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fGVDa1nO1qIoD0k06qMP-107" value="支付宝/微信开放平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fGVDa1nO1qIoD0k06qMP-107" value="支付宝/微信开放平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168.5" y="427" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fGVDa1nO1qIoD0k06qMP-109" value="。。。。。。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fGVDa1nO1qIoD0k06qMP-109" value="。。。。。。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170.25" y="715" width="93.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fGVDa1nO1qIoD0k06qMP-111" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.599;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J37brF7z_EK4cNClz8Gs-112">
+        <mxCell id="fGVDa1nO1qIoD0k06qMP-111" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.599;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="J37brF7z_EK4cNClz8Gs-112" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-120" y="310" as="sourcePoint" />
             <mxPoint x="70" y="305" as="targetPoint" />
